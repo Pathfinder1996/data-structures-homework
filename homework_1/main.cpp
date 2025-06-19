@@ -62,7 +62,7 @@ void demo_input() {
     /*
     Read the file. If it does not exist, terminate.
     */
-    ifstream fin("list2.txt");
+    ifstream fin("input.txt");
 
     if (!fin) {
         cout << "File not found" << endl;
