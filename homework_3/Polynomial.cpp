@@ -1,3 +1,8 @@
+/*
+Data Structures Homework 3
+M11212913 Sheng-Yen Dai, 2025/03/28
+*/
+
 #include "Polynomial.h"
 #include <iomanip>
 
