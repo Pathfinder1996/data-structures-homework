@@ -9,6 +9,33 @@ All data structures are implemented from scratch to meet assignment requirements
 - Textbook: Fundamentals of Data Structures in C++, 2/e, by Ellis Horowitz, Sartaj Sahni, Dinesh Mehta
 
 ### 📁 Contents
+| Homework 1 |  |
+|-------------|-----------------|
+| | |
+
+| Homework 2 |  |
+|-------------|-----------------|
+| | |
+
+| Homework 3 |  |
+|-------------|-----------------|
+| | |
+
+| Homework 4 |  |
+|-------------|-----------------|
+| | |
+
+| Homework 5 |  |
+|-------------|-----------------|
+| | |
+
+| Homework 6 |  |
+|-------------|-----------------|
+| | |
+
+| Homework 7 |  |
+|-------------|-----------------|
+| | |
 
 ## 🚀 Getting Started
 Compile the program with:
