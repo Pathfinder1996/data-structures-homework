@@ -11,7 +11,7 @@ All data structures are implemented from scratch to meet assignment requirements
 ### 📁 Contents
 | Homework 1 | Description | Input | Output |
 |-------------|-----------------|-----------------|-----------------|
-| | | | |
+|  |  | | |
 
 | Homework 2 | Description | Input | Output |
 |-------------|-----------------|-----------------|-----------------|
