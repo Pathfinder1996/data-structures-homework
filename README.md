@@ -9,33 +9,33 @@ All data structures are implemented from scratch to meet assignment requirements
 - Textbook: Fundamentals of Data Structures in C++, 2/e, by Ellis Horowitz, Sartaj Sahni, Dinesh Mehta
 
 ### 📁 Contents
-| Homework 1 |  |
-|-------------|-----------------|
-| | |
+| Homework 1 | Description | Input | Output |
+|-------------|-----------------|-----------------|-----------------|
+| | | | |
 
-| Homework 2 |  |
-|-------------|-----------------|
-| | |
+| Homework 2 | Description | Input | Output |
+|-------------|-----------------|-----------------|-----------------|
+| | | | |
 
-| Homework 3 |  |
-|-------------|-----------------|
-| | |
+| Homework 3 | Description | Input | Output |
+|-------------|-----------------|-----------------|-----------------|
+| | | | |
 
-| Homework 4 |  |
-|-------------|-----------------|
-| | |
+| Homework 4 | Description | Input | Output |
+|-------------|-----------------|-----------------|-----------------|
+| | | | |
 
-| Homework 5 |  |
-|-------------|-----------------|
-| | |
+| Homework 5 | Description | Input | Output |
+|-------------|-----------------|-----------------|-----------------|
+| | | | |
 
-| Homework 6 |  |
-|-------------|-----------------|
-| | |
+| Homework 6 | Description | Input | Output |
+|-------------|-----------------|-----------------|-----------------|
+| | | | |
 
-| Homework 7 |  |
-|-------------|-----------------|
-| | |
+| Homework 7 | Description | Input | Output |
+|-------------|-----------------|-----------------|-----------------|
+| | | | |
 
 ## 🚀 Getting Started
 Compile the program with:
