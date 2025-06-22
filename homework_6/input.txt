@@ -1,0 +1,10 @@
+0/* debug or not*/
+20 /* N set the size of the av list*/
+3 /* polynomial A, 3 terms */
+5 5
+3 3
+1 1
+
+2 /* polynomial B, 2 terms */
+4 4
+2 2
