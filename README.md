@@ -38,6 +38,12 @@ All data structures are implemented from scratch to meet assignment requirements
 | | | | |
 
 ## 🚀 Getting Started
+You can run the program in two ways:
+
+1. Using Visual Studio 2022 open the “xxxxxxxx.sln” file directly.
+
+2. Using Command Line
+
 Compile the program with:
 ```
 g++ *.cpp
