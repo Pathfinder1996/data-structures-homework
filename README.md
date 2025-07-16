@@ -2,11 +2,11 @@
 所有資料結構皆按照作業規範自己實作，禁止使用 C++ STL。
 
 ### 🔗 1132 NTUST EE Data Structures Homework
-- Course code: EE3407301
-- Instructor: Prof. Jiann-Jone Chen(陳建中 教授)
-- Textbook: Fundamentals of Data Structures in C++, 2/e, by Ellis Horowitz, Sartaj Sahni, Dinesh Mehta
+- 課程代碼: EE3407301
+- 授課老師: Prof. Jiann-Jone Chen(陳建中 教授)
+- 課程用書: Fundamentals of Data Structures in C++, 2/e, by Ellis Horowitz, Sartaj Sahni, Dinesh Mehta
 
-### 📁 Contents
+### 📁 壓縮檔內容
 | Homework 1 | Description | Input | Output |
 |-------------|-----------------|-----------------|-----------------|
 |  |  | | |
@@ -35,7 +35,7 @@
 |-------------|-----------------|-----------------|-----------------|
 | | | | |
 
-## 🚀 Getting Started
+## 🚀 如何使用
 兩種方式編譯並執行程式:
 
 1. 使用 Visual Studio 2022 直接開起檔案結尾為.sln的檔案，例如:“xxxxxxxx.sln”，直接編譯並執行。
